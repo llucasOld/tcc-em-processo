@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkslateblue;
+    height: 600vh;
+}
+
+.grama{
+    background-color: rgb(71, 141, 0);
+    height: 200px;
+}
+
+.img-cobra img{
+    margin-top: -150px;
+}
+
+
+.cont{
+    display: flex;
+    margin-top: 200px;
+}
+
+.duff ul, li{
+    display: flex;
+    margin-left: 30px;
+}
